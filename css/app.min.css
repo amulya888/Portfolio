@@ -2415,7 +2415,7 @@ a.btn {
 }
 
 .header__logo .header__pic {
-    width: 100px;
+    width: 75px;
 }
 
 @media only screen and (max-width: 1279px) {
