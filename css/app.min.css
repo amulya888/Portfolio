@@ -6475,7 +6475,7 @@ body:not(.touch-device) .owl-item:hover .details__preview {
 }
 
 .product__info {
-    max-width: 360px;
+    max-width: 600px;
     color: #6b6b6b;
 }
 
@@ -6488,7 +6488,7 @@ body:not(.touch-device) .owl-item:hover .details__preview {
 
 @media only screen and (max-width: 767px) {
     .product__info {
-        max-width: 230px;
+        max-width: 330px;
         font-weight: 400;
     }
 }
